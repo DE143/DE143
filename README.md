@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/DE143/DE143/blob/main/po.jpg?raw=true" 
        alt="Profile Banner" 
-       width="80%" 
+       width="30%" 
        style="border-radius: 15px; box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3); border: 2px solid #ddd;">
 </p>
 
