@@ -36,15 +36,15 @@ I am a **Full-Stack Software Developer** specializing in **ASP.NET, Angular, and
 ---
 
 ### 📊 GitHub Stats
-![Derese's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DereseEwunet&show_icons=true&theme=radical)
+![Derese's GitHub Stats](https://github-readme-stats.vercel.app/api?username=de143&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DereseEwunet&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=de143&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/derese-ewunet/](https://www.linkedin.com/in/derese-ewunet-0b9233248/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derese-ewunet-0b9233248/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derese641735.ew@gmail.com)  
 
 Feel free to reach out for collaborations or just to say hi! 😊
