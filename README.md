@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm <b>Derese Ewunet</b> 👋</h1>
 
 <p align="center">
-  <img src="https://source.unsplash.com/1600x500/?technology,code" alt="GitHub Banner">
+  <img src="https://github.com/DE143/DE143/blob/main/po.jpg?raw=true" alt="GitHub Banner">
 </p>
+
 
 <h3 align="center">💻 Full-Stack Software Developer | .NET | Angular | React</h3>
 
