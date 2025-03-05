@@ -13,12 +13,12 @@
 <h3 align="center">💻 Full-Stack Software Developer | .NET | Angular | React</h3>
 
 <p align="center">
-🚀 Passionate about building scalable and efficient applications. I specialize in <b>ASP.NET, Angular, and React</b>. Currently working at <b>DAFTech Social ICT Solution PLC</b>, contributing to projects like <b>Oromia Transport Management System</b> and <b>Benishangul Gumuz Transport Management System</b>.
+ Passionate about building scalable and efficient applications. I specialize in <b>ASP.NET, Angular, and React</b>. Currently working at <b>DAFTech Social ICT Solution PLC</b>, contributing to projects like <b>Oromia Transport Management System</b> and <b>Benishangul Gumuz Transport Management System</b>.
 </p>
 
 ---
 
-## 🚀 Technologies & Tools
+##  Technologies & Tools
 
 ### 💻 Backend
 <p align="center">
@@ -45,7 +45,7 @@
 
 ---
 
-## 📌 Projects
+##  Projects
 🔹 **[Oromia Transport Management System](#)** *(Regional Transport Management System)*  
 🔹 **[Benishangul Gumuz Transport Management System](#)** *(Regional Transport Management System)*  
 🔹 **[My Portfolio](https://react-port-ebon.vercel.app/)** *(Personal Portfolio Website in React & .NET)*  
