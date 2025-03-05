@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <b>Derese Ewunet</b> 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/DE143/DE143/blob/main/po.jpg?raw=true" alt="Profile Banner" width="500" height="250" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="https://github.com/DE143/DE143/blob/main/po.jpg?raw=true" alt="Profile Banner" width="50%" height="50%" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </p>
 
 
