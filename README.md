@@ -73,6 +73,10 @@
   <a href="mailto:derese641735.ew@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://t.me/dera1619">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
 </p>
 
 <p align="center"><b>Feel free to reach out for collaborations or just to say hi! 😊</b></p>
