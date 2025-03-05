@@ -2,7 +2,7 @@
 
 ![GitHub Banner](https://source.unsplash.com/1600x500/?technology,code)
 
-I am a **Full-Stack Software Developer** specializing in **ASP.NET, Angular, and React**. I am passionate about building scalable and efficient applications and always eager to learn new technologies. I have experience working on projects such as **Oromia Transport Agency System** and **Benishangul Gumuz Transport Agency** at **DAFTech Social ICT Solution PLC**.
+I am a **Full-Stack Software Developer** specializing in **ASP.NET, Angular, and React**. I am passionate about building scalable and efficient applications and always eager to learn new technologies. I have experience working on projects such as **Oromia Transport Management System** and **Benishangul Gumuz Transport Management System** at **DAFTech Social ICT Solution PLC**.
 
 ---
 
@@ -24,15 +24,14 @@ I am a **Full-Stack Software Developer** specializing in **ASP.NET, Angular, and
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### 📌 Projects
 
-🔹 [Oromia Transport Agency System](#) *(Enterprise Transport Management)*  
-🔹 [Benishangul Gumuz Transport Agency](#) *(Regional Transport & Licensing System)*  
-🔹 [My Portfolio](#) *(Personal Portfolio Website in React & .NET)*  
+🔹 [Oromia Transport Agency System](#) *(Regional Transport Management System)*  
+🔹 [Benishangul Gumuz Transport Agency](#) *(Regional Transport Management System)*  
+🔹 [My Portfolio](https://react-port-ebon.vercel.app/) *(Personal Portfolio Website in React & .NET)*  
 
 ---
 
@@ -45,8 +44,7 @@ I am a **Full-Stack Software Developer** specializing in **ASP.NET, Angular, and
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derese-ewunet/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/derese-ewunet/](https://www.linkedin.com/in/derese-ewunet-0b9233248/))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derese641735.ew@gmail.com)  
 
 Feel free to reach out for collaborations or just to say hi! 😊
