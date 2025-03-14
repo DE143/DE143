@@ -54,7 +54,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de143&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DE143&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
