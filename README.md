@@ -52,8 +52,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=de143&theme=radical" height="180px">
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de143&layout=compact&theme=radical" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de143&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
