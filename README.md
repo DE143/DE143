@@ -88,9 +88,9 @@
     <a href="mailto:derese641735.ew@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://dev.to/yourprofile">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-    </a>
+<a href="https://t.me/dera1619" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
   </div>
   
   ---
