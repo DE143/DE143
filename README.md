@@ -68,16 +68,15 @@
 
   ### 🏆 Featured Projects
   
-  <div align="center">
+<div align="center">
   
   | Project | Description | Tech Stack |
   |---------|-------------|------------|
-  | **[Portifolio](https://react-port-ebon.vercel.app/
-)** My Portifolio |
-  | **[Project 2](https://github.com/DE143/)** | Vue.js admin dashboard | Vue.js · Firebase · Tailwind |
-  | **[Project 3](https://github.com/DE143/)** | Angular e-commerce platform | Angular · Node.js · MongoDB |
+  | **[Portfolio](https://react-port-ebon.vercel.app/)** | My personal portfolio website | React · Tailwind CSS · Vercel |
+  | **[Vue.js Admin Dashboard](https://github.com/DE143/)** | Responsive admin dashboard with analytics | Vue.js · Firebase · Tailwind CSS |
+  | **[Angular E-Commerce](https://github.com/DE143/)** | Full-featured online store | Angular · Node.js · MongoDB |
   
-  </div>
+</div>
   
   ---
 
