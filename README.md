@@ -53,15 +53,25 @@
 
   ### 📊 GitHub Stats
   
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DE143&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-### 🔮 My Tech Stack  
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DE143&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+  ### 🔮 My Tech Stack
+  
+  <div>
+    <!-- First Row -->
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <br/>
+    <!-- Second Row -->
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   </div>
+  
+</div>
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DE143&theme=radical)
   
