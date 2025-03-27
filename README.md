@@ -73,8 +73,7 @@
   
 </div>
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DE143&theme=radical)
-  
+![GitHub Streak](https://streak-stats.demolab.com/?user=DE143&theme=radical&hide_border=true)
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=DE143&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
   </p>
