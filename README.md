@@ -81,9 +81,8 @@
   ---
 
   ### 📫 Let's Connect!
-  
   <div align="center">
-    <a href="https://linkedin.com/in/yourprofile">
+    <a href="https://linkedin.com/in/derese-ewunet-0b9233248">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:derese641735.ew@gmail.com">
