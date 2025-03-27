@@ -12,6 +12,25 @@
       <img src="https://img.shields.io/github/followers/DE143?label=Followers&style=social" alt="GitHub Followers" />
     </a>
   </div>
+  <div align="center">
+
+  ### 🚀 Code Crusader | .NET Alchemist | UI Wizard
+  
+  **Turning caffeine into clean code since daylight**  
+  *Full-stack developer passionate about crafting elegant solutions at the intersection of design and engineering*
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=DE143&theme=radical&hide_border=true&fire=FF4D00&currStreakLabel=FF4D00&dates=9B9B9B)
+  
+  ---
+
+  ### 🔥 Daily Dev Fuel
+  ```csharp
+  while(alive) {
+      coffee.Drink();
+      code.Write();
+      bugs.Fix();
+      repeat();
+  }
   
   ---
 
