@@ -11,7 +11,9 @@
     <a href="https://github.com/DE143?tab=followers">
       <img src="https://img.shields.io/github/followers/DE143?label=Followers&style=social" alt="GitHub Followers" />
     </a>
-    <p>🚀 Full-Stack Developer specializing in ASP.NET, React, Vue.js, and Angular. Passionate about crafting high-performance web applications, optimizing user experiences, and contributing to open-source projects. Always exploring new technologies to build scalable and efficient solutions.</p>
+    <p>🚀 Full-Stack Developer specializing in ASP.NET, React, Vue.js, and Angular. Passionate about crafting high-performance web applications, optimizing user experiences, and contributing to open-source projects. Always exploring new technologies to build scalable and efficient solutions.
+      almost all my repositories are private so you can't get all history like commit
+    </p>
 
   </div>
  
