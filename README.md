@@ -1,7 +1,7 @@
 <div align="center">
   
   
-  ### 👨‍💻 Hi, I'm Dhanush!  
+  ### 👨‍💻 Hi, I'm Derese Ewunet!  
   **Full-Stack Developer | ASP.NET | React | Vue.js | Angular | Open-Source Contributor**
   
   <div align="center">
