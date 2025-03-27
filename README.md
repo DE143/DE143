@@ -72,9 +72,9 @@
   
   | Project | Description | Tech Stack |
   |---------|-------------|------------|
-  | **[Portfolio](https://react-port-ebon.vercel.app/)** | My personal portfolio website | React · Tailwind CSS · Vercel |
-  | **[Vue.js Admin Dashboard](https://github.com/DE143/)** | Responsive admin dashboard with analytics | Vue.js · Firebase · Tailwind CSS |
-  | **[Angular E-Commerce](https://github.com/DE143/)** | Full-featured online store | Angular · Node.js · MongoDB |
+  | <a href="https://react-port-ebon.vercel.app/" target="_blank">**Portfolio**</a> | My personal portfolio website | React · Tailwind CSS · Vercel |
+  | <a href="https://github.com/DE143/" target="_blank">**Vue.js Admin Dashboard**</a> | Responsive admin dashboard with analytics | Vue.js · Firebase · Tailwind CSS |
+  | <a href="https://github.com/DE143/" target="_blank">**Angular E-Commerce**</a> | Full-featured online store | Angular · Node.js · MongoDB |
   
 </div>
   
