@@ -1,12 +1,12 @@
 <div align="center">
   
-  ![Header](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/main/assets/github-header.png?raw=true) <!-- Optional header image -->
+  ![Header](https://github.com/DE143/DE143/blob/main/assets/github-header.png?raw=true) <!-- Optional header image -->
   
   ### 👨‍💻 Full-Stack Developer | ASP.NET | React | Vue.js | Angular | Open-Source Enthusiast
   
   <div align="center">
-    <a href="https://github.com/YourGitHubUsername">
-      <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="https://github.com/DE143">
+      <img src="https://komarev.com/ghpvc/?username=DE143&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     </a>
     <a href="https://twitter.com/YourHandle">
       <img src="https://img.shields.io/twitter/follow/YourHandle?style=social" alt="Twitter Follow" />
@@ -55,13 +55,13 @@
   ### 📊 GitHub Stats
   
   <div align="center">
-    <a href="https://github.com/YourGitHubUsername">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
+    <a href="https://github.com/DE143">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DE143&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DE143&layout=compact&theme=radical" alt="Top Languages" />
     </a>
   </div>
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DE143&theme=radical)
   
   ---
 
@@ -69,9 +69,9 @@
   
   | Project | Description | Tech Stack |
   |---------|-------------|------------|
-  | **[Awesome React App](https://github.com/YourGitHubUsername/awesome-react-app)** | A modern web app with React & ASP.NET Core | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white) |
-  | **[Vue Dashboard](https://github.com/YourGitHubUsername/vue-dashboard)** | Admin dashboard with real-time analytics | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
-  | **[Angular E-Commerce](https://github.com/YourGitHubUsername/angular-ecommerce)** | Full-featured online store | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
+  | **[Awesome React App](https://github.com/DE143/awesome-react-app)** | A modern web app with React & ASP.NET Core | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white) |
+  | **[Vue Dashboard](https://github.com/DE143/vue-dashboard)** | Admin dashboard with real-time analytics | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+  | **[Angular E-Commerce](https://github.com/DE143/angular-ecommerce)** | Full-featured online store | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
   
   ---
 
@@ -94,7 +94,7 @@
   
   ---
   
-  ![Footer](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/main/assets/github-footer.png?raw=true) <!-- Optional footer image -->
+  ![Footer](https://github.com/DE143/DE143/blob/main/assets/github-footer.png?raw=true) <!-- Optional footer image -->
   
   <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality+with+code;Full-stack+developer+passionate+about+open-source;Let's+build+something+amazing+together!" alt="Typing SVG" />
