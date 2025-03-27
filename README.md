@@ -1,6 +1,5 @@
 <div align="center">
   
-  ![Header](https://github.com/DE143/DE143/blob/main/po.jpg?raw=true)
   
   ### 👨‍💻 Hi, I'm Dhanush!  
   **Full-Stack Developer | ASP.NET | React | Vue.js | Angular | Open-Source Contributor**
