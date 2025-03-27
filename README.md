@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://github.com/DE143/DE143/blob/main/assets/po.jpg?raw=true) <!-- Add your own banner image later -->
+  ![Header](https://github.com/DE143/DE143/blob/main/po.jpg?raw=true)
   
   ### 👨‍💻 Hi, I'm Dhanush!  
   **Full-Stack Developer | ASP.NET | React | Vue.js | Angular | Open-Source Contributor**
@@ -55,15 +55,12 @@
   ### 📊 GitHub Stats
   
   <div align="center">
-    <a href="https://github.com/DE143">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DE143&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DE143&layout=compact&theme=radical" alt="Top Languages" />
-    </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DE143&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DE143&layout=compact&theme=radical" alt="Top Languages" />
   </div>
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DE143&theme=radical)
   
-  <!-- Trophy Section -->
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=DE143&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
   </p>
@@ -72,11 +69,15 @@
 
   ### 🏆 Featured Projects
   
-  | Project | Description | Tech Stack | Live Demo |
-  |---------|-------------|------------|-----------|
-  | **[React ASP.NET App](https://github.com/DE143/react-aspnet-core-app)** | Modern web app with React & ASP.NET Core | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white) | [Demo](#) |
-  | **[Vue.js Dashboard](https://github.com/DE143/vue-admin-dashboard)** | Responsive admin dashboard | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) | [Demo](#) |
-  | **[Angular E-Commerce](https://github.com/DE143/angular-ecommerce)** | Online store with payment integration | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | [Demo](#) |
+  <div align="center">
+  
+  | Project | Description | Tech Stack |
+  |---------|-------------|------------|
+  | **[Project 1](https://github.com/DE143/)** | Modern web app with React & ASP.NET Core | React · ASP.NET · Azure |
+  | **[Project 2](https://github.com/DE143/)** | Vue.js admin dashboard | Vue.js · Firebase · Tailwind |
+  | **[Project 3](https://github.com/DE143/)** | Angular e-commerce platform | Angular · Node.js · MongoDB |
+  
+  </div>
   
   ---
 
@@ -84,24 +85,19 @@
   
   <div align="center">
     <a href="https://linkedin.com/in/yourprofile">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://twitter.com/YourHandle">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:youremail@example.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://dev.to/yourprofile">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
     </a>
   </div>
   
   ---
   
-  ![Footer](https://github.com/DE143/DE143/blob/main/assets/footer.png?raw=true) <!-- Optional footer image -->
-  
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Turning+coffee+into+code+since+2020;Full-stack+developer+passionate+about+clean+architecture;Open+to+collaborations+and+new+opportunities!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Code+is+poetry+in+motion;Full-stack+developer+with+a+passion+for+UX;Open+to+collaborate+on+exciting+projects!" alt="Typing SVG" />
   </div>
 </div>
