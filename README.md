@@ -72,7 +72,8 @@
   
   | Project | Description | Tech Stack |
   |---------|-------------|------------|
-  | **[Project 1](https://github.com/DE143/)** | Modern web app with React & ASP.NET Core | React · ASP.NET · Azure |
+  | **[Portifolio](https://react-port-ebon.vercel.app/
+)** My Portifolio |
   | **[Project 2](https://github.com/DE143/)** | Vue.js admin dashboard | Vue.js · Firebase · Tailwind |
   | **[Project 3](https://github.com/DE143/)** | Angular e-commerce platform | Angular · Node.js · MongoDB |
   
@@ -86,7 +87,7 @@
     <a href="https://linkedin.com/in/yourprofile">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:youremail@example.com">
+    <a href="mailto:derese641735.ew@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://dev.to/yourprofile">
