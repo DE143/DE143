@@ -1,12 +1,8 @@
-<div align="center">
-   <a href="https://github.com/DE143">
-    <img src="https://via.placeholder.com/1200x250/1a202c/ffffff?text=Derese+Ewunet+%7C+Full-Stack+Developer" alt="Derese Ewunet - Full-Stack Developer Banner" style="width:100%; max-width:900px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  </a>
-</div>
+
 
 <div align="center"><div align="center">
   <a href="https://github.com/DE143">
-    <img src="https://via.placeholder.com/1200x250/1a202c/ffffff?text=Derese+Ewunet+%7C+Full-Stack+Developer" alt="Derese Ewunet - Full-Stack Developer Banner" style="width:100%; max-width:900px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="https://via.placeholder.com/1200x250/1a202c/ffffff?text=Derese+Ewunet+%7C+Full-Stack+Developer" alt="Derese Ewunet - Full-Stack Developer" style="width:100%; max-width:900px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   </a>
 </div>
 
