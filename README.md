@@ -1,10 +1,4 @@
 <div align="center">
-  <a href="https://github.com/DE143">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript Logo" style="width: auto; height: 80px; margin-bottom: 10px; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-  </a>
-</div>
-
-<div align="center">
   <h1>Hey there! I'm Derese Ewunet 👋</h1>
   <h3>Full-Stack Engineer | Architecting Scalable Web Solutions</h3>
   <br>
