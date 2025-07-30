@@ -70,11 +70,10 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-
 | Project                                                 | Description                                            | Key Technologies                     |
 | :------------------------------------------------------ | :----------------------------------------------------- | :----------------------------------- |
 | <a href="https://react-port-ebon.vercel.app/" target="_blank">**Personal Portfolio**</a> | A dynamic showcase of my work and skills.            | React, Tailwind CSS, Vercel          |
-| <a href="https://github.com/DE143/your-vue-project-repo" target="_blank">**Vue.js Admin Dashboard**</a> | A comprehensive and responsive admin interface.      | Vue.js, Firebase, Tailwind CSS       |
+| <a href="https://akakikalityschooldata.vercel.app/login" target="_blank">**Akaki Kality School Management System**</a> | A comprehensive and responsive admin interface.      | Vue.js, Firebase, Tailwind CSS       |
 | <a href="https://github.com/DE143/your-angular-project-repo" target="_blank">**Angular E-Commerce Platform**</a> | A full-stack e-commerce solution with robust features. | Angular, Node.js, MongoDB            |
 
 </div>
