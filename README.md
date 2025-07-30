@@ -73,7 +73,7 @@
 
 | Project                                                 | Description                                            | Key Technologies                     |
 | :------------------------------------------------------ | :----------------------------------------------------- | :----------------------------------- |
-| <a href="https://react-port-ebon.vercel.app/" target="_blank">**Personal Portfolio**</a> | A dynamic showcase of my work and skills.            | React, Tailwind CSS, Vercel          |
+| <a href="https://dereseewunetportifolio.vercel.app/" target="_blank">**Personal Profile**</a> | A dynamic showcase of my work and skills.            | React, Tailwind CSS, Vercel          |
 | <a href="https://akakikalityschooldata.vercel.app" target="_blank">**Akaki Kality School Data**</a> | School Management System  | Next.js, MongoDb, Tailwind CSS       |
 | <a href="https://github.com/DE143/your-angular-project-repo" target="_blank">**Angular E-Commerce Platform**</a> | A full-stack e-commerce solution with robust features. | Angular, Node.js, MongoDB            |
 
