@@ -1,9 +1,15 @@
 <div align="center">
-  <h1>Hey there! I'm Derese Ewunet 👋</h1>
-  <h3>Full-Stack Engineer | Architecting Scalable Web Solutions</h3>
+  <h1>👋 Hey there! I'm <span style="color:#0e75b6;">Derese Ewunet</span></h1>
+  <h3>Full-Stack Engineer | Architecting Scalable, High-Impact Web Solutions</h3>
   <br>
 
-  <p>I'm a dedicated **Full-Stack Developer** with a passion for building robust and intuitive web applications. My expertise spans across modern frontend frameworks and powerful backend technologies, allowing me to craft seamless user experiences from concept to deployment. I thrive on problem-solving, optimizing performance, and contributing to innovative projects, always staying curious about the latest advancements in tech.</p>
+  <p>
+    I’m a passionate <strong>Full-Stack Developer</strong> dedicated to crafting modern, high-performing, and user-focused web applications.  
+    With expertise spanning from cutting-edge frontend frameworks to powerful backend systems,  
+    I deliver seamless solutions from concept to deployment.  
+    I thrive on solving complex problems, optimizing performance, and driving innovation —  
+    always staying curious and adapting to the evolving world of technology.
+  </p>
 
   <div align="center">
     <a href="https://github.com/DE143">
@@ -17,9 +23,9 @@
 
 ---
 
-## 🛠️ My Engineering Toolkit
+## 🛠️ Tech Arsenal
 
-### Frontend
+### 🚀 Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -29,7 +35,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### Backend
+### ⚙ Backend
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -37,26 +43,25 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </p>
 
-### Database & Cloud
+### 🗄 Database & ☁ Cloud
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
 </p>
 
-### Development & DevOps Tools
+### 🛠 DevOps & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-## 📈 GitHub Insights
-
+## 📊 GitHub Highlights
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DE143&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Derese's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=DE143&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -68,30 +73,28 @@
 ---
 
 ## 🚀 Featured Projects
-
 <div align="center">
 
-| Project                                                 | Description                                            | Key Technologies                     |
-| :------------------------------------------------------ | :----------------------------------------------------- | :----------------------------------- |
-| <a href="https://dereseewunetportifolio.vercel.app/" target="_blank">**Personal Profile**</a> | A dynamic showcase of my work and skills.            | React, Tailwind CSS, Vercel          |
-| <a href="https://akakikalityschooldata.vercel.app" target="_blank">**Akaki Kality School Data**</a> | School Management System  | Next.js, MongoDb, Tailwind CSS       |
-| <a href="https://github.com/DE143/your-angular-project-repo" target="_blank">**Angular E-Commerce Platform**</a> | A full-stack e-commerce solution with robust features. | Angular, Node.js, MongoDB            |
+| Project | Description | Tech Stack |
+| --- | --- | --- |
+| [**Personal Portfolio**](https://dereseewunetportifolio.vercel.app/) | A modern showcase of my work, skills, and achievements. | React, Tailwind CSS, Vercel |
+| [**Akaki Kality School Data**](https://akakikalityschooldata.vercel.app) | A school management system to streamline operations. | Next.js, MongoDB, Tailwind CSS |
+| [**Angular E-Commerce Platform**](https://github.com/DE143/your-angular-project-repo) | Full-stack e-commerce platform with advanced features. | Angular, Node.js, MongoDB |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
-
+## 🤝 Let’s Connect
 <div align="center">
   <a href="https://linkedin.com/in/derese-ewunet-0b9233248" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:derese641735.ew@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/dera1619" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://t.me/dera1619" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </div>
 
