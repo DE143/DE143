@@ -7,16 +7,16 @@
 <br>
 
 <div align="center">
-  <a href="https://dereseewunet.vercel.app/">
+  <a href="https://dereseewunet.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-0E75B6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/derese-ewunet-0b9233248">
+  <a href="https://linkedin.com/in/derese-ewunet-0b9233248" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:derese641735.ew@gmail.com">
+  <a href="mailto:derese641735.ew@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://t.me/dera1619">
+  <a href="https://t.me/dera1619" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
@@ -30,10 +30,10 @@ I'm a passionate **Full-Stack Developer** dedicated to crafting modern, high-per
 I thrive on solving complex problems, optimizing performance, and driving innovation—always staying curious and adapting to the evolving world of technology.
 
 <div align="center">
-  <a href="https://github.com/DE143">
+  <a href="https://github.com/DE143" target="_blank" rel="noopener noreferrer">
     <img src="https://komarev.com/ghpvc/?username=DE143&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
-  <a href="https://github.com/DE143?tab=followers">
+  <a href="https://github.com/DE143?tab=followers" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/followers/DE143?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </div>
@@ -96,47 +96,45 @@ I thrive on solving complex problems, optimizing performance, and driving innova
 <table>
 <tr>
 <td width="50%">
-
-### Personal Portfolio
-*A modern showcase of work, skills, and achievements*
-
-- 🎨 **Design**: Clean, responsive, modern aesthetic
-- ⚡ **Tech**: React, Tailwind CSS, Vercel
-- 🔗 **Link**: [View Project](https://dereseewunet.vercel.app/)
-
+  <h3>Personal Portfolio</h3>
+  <em>A modern showcase of work, skills, and achievements</em>
+  <ul>
+    <li>🎨 <strong>Design</strong>: Clean, responsive, modern aesthetic</li>
+    <li>⚡ <strong>Tech</strong>: React, Tailwind CSS, Vercel</li>
+    <li>🔗 <strong>Link</strong>: <a href="https://dereseewunet.vercel.app/" target="_blank" rel="noopener noreferrer">View Project</a></li>
+  </ul>
 </td>
-<td width="50%">
 
-### Akaki Kality School Data
-*Comprehensive school management system*
-
-- 📚 **Features**: Student tracking, admin dashboard
-- ⚙️ **Tech**: Next.js, MongoDB, Tailwind CSS
-- 🔗 **Link**: [View Project](https://akakikalityschooldataaschu.vercel.app)
-
-</td>
+  <td width="50%">
+    <h3>Akaki Kality School Data</h3>
+    <em>Comprehensive school management system</em>
+    <ul>
+      <li>📚 <strong>Features</strong>: Student tracking, admin dashboard</li>
+      <li>⚙️ <strong>Tech</strong>: Next.js, MongoDB, Tailwind CSS</li>
+      <li>🔗 <strong>Link</strong>: <a href="https://akakikalityschooldataaschu.vercel.app" target="_blank" rel="noopener noreferrer">View Project</a></li>
+    </ul>
+  </td>
 </tr>
 <tr>
-<td width="50%">
+  <td width="50%">
+    <h3>Oromia Transport Management System</h3>
+    <em>Transport management system</em>
+    <ul>
+      <li>🛒 <strong>Features</strong>: Driver, Vehicle, Trafic Module</li>
+      <li>🛠️ <strong>Tech</strong>: Angular, .NET, MS SQL Server</li>
+      <li>🔗 <strong>Link</strong>: <a href="https://github.com/DE143" target="_blank" rel="noopener noreferrer">View Repository</a></li>
+    </ul>
+  </td>
+  <td width="50%">
+    <h3>Water Bill System</h3>
+    <em>Bill System</em>
+    <ul>
+      <li>🛒 <strong>Features</strong>: Bill, report, notification Module</li>
+      <li>🛠️ <strong>Tech</strong>: Angular, .NET, MS SQL Server</li>
+      <li>🔗 <strong>Link</strong>: <a href="https://github.com/DE143" target="_blank" rel="noopener noreferrer">View Repository</a></li>
+    </ul>
+  </td>
 
-### Oromia Transport Management System
-*transport management system*
-
-- 🛒 **Features**: Driver, Vehicle, Trafic Module
-- 🛠️ **Tech**: Angular, .NET, MS SQL Server
-- 🔗 **Link**: [View Repository](https://github.com/DE143)
-
-</td>
-<td width="50%">
-
-### Water Bill System
-*Bill System*
-
-- 🛒 **Features**: bill, report, notification Module
-- 🛠️ **Tech**: Angular, .NET, MS SQL Server
-- 🔗 **Link**: [View Repository](https://github.com/DE143)
-
-</td>
 </tr>
 </table>
 
