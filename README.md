@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <a href="https://dereseewunet.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://derese.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-0E75B6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/derese-ewunet-0b9233248" target="_blank" rel="noopener noreferrer">
@@ -101,7 +101,7 @@ I thrive on solving complex problems, optimizing performance, and driving innova
   <ul>
     <li>🎨 <strong>Design</strong>: Clean, responsive, modern aesthetic</li>
     <li>⚡ <strong>Tech</strong>: React, Tailwind CSS, Vercel</li>
-    <li>🔗 <strong>Link</strong>: <a href="https://dereseewunet.vercel.app/" target="_blank" rel="noopener noreferrer">View Project</a></li>
+    <li>🔗 <strong>Link</strong>: <a href="https://derese.vercel.app/" target="_blank" rel="noopener noreferrer">View Project</a></li>
   </ul>
 </td>
 
@@ -197,7 +197,7 @@ I'm always interested in connecting with fellow developers, collaborating on imp
 | **LinkedIn** | [derese-ewunet-0b9233248](https://linkedin.com/in/derese-ewunet-0b9233248) |
 | **Email** | [derese641735.ew@gmail.com](mailto:derese641735.ew@gmail.com) |
 | **Telegram** | [@dera1619](https://t.me/dera1619) |
-| **Portfolio** | [dereseewunet.vercel.app](https://dereseewunet.vercel.app/) |
+| **Portfolio** | [derese.vercel.app](https://derese.vercel.app/) |
 
 </div>
 
