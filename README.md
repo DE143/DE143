@@ -55,6 +55,7 @@ I thrive on solving complex problems, optimizing performance, and driving innova
 ### Backend Power
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Nest.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nest.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -62,9 +63,10 @@ I thrive on solving complex problems, optimizing performance, and driving innova
 
 ### Database & Cloud Infrastructure
 <p align="center">
+  <img src="https://img.shields.io/badge/Oracle-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
 </p>
 
@@ -95,27 +97,6 @@ I thrive on solving complex problems, optimizing performance, and driving innova
 
 <table>
 <tr>
-<td width="50%">
-  <h3>Personal Portfolio</h3>
-  <em>A modern showcase of work, skills, and achievements</em>
-  <ul>
-    <li>🎨 <strong>Design</strong>: Clean, responsive, modern aesthetic</li>
-    <li>⚡ <strong>Tech</strong>: React, Tailwind CSS, Vercel</li>
-    <li>🔗 <strong>Link</strong>: <a href="https://derese.vercel.app/" target="_blank" rel="noopener noreferrer">View Project</a></li>
-  </ul>
-</td>
-
-  <td width="50%">
-    <h3>Akaki Kality School Data</h3>
-    <em>Comprehensive school management system</em>
-    <ul>
-      <li>📚 <strong>Features</strong>: Student tracking, admin dashboard</li>
-      <li>⚙️ <strong>Tech</strong>: Next.js, MongoDB, Tailwind CSS</li>
-      <li>🔗 <strong>Link</strong>: <a href="https://akakikalityschooldataaschu.vercel.app" target="_blank" rel="noopener noreferrer">View Project</a></li>
-    </ul>
-  </td>
-</tr>
-<tr>
   <td width="50%">
     <h3>Oromia Transport Management System</h3>
     <em>Transport management system</em>
@@ -134,6 +115,28 @@ I thrive on solving complex problems, optimizing performance, and driving innova
       <li>🔗 <strong>Link</strong>: <a href="https://github.com/DE143" target="_blank" rel="noopener noreferrer">View Repository</a></li>
     </ul>
   </td>
+</tr>
+<tr>
+  
+
+  <td width="50%">
+    <h3>Akaki Kality School Data</h3>
+    <em>Comprehensive school management system</em>
+    <ul>
+      <li>📚 <strong>Features</strong>: Student tracking, admin dashboard</li>
+      <li>⚙️ <strong>Tech</strong>: Next.js, MongoDB, Tailwind CSS</li>
+      <li>🔗 <strong>Link</strong>: <a href="https://akakikalityschooldataaschu.vercel.app" target="_blank" rel="noopener noreferrer">View Project</a></li>
+    </ul>
+  </td>
+  <td width="50%">
+  <h3>Personal Portfolio</h3>
+  <em>A modern showcase of work, skills, and achievements</em>
+  <ul>
+    <li>🎨 <strong>Design</strong>: Clean, responsive, modern aesthetic</li>
+    <li>⚡ <strong>Tech</strong>: React, Tailwind CSS, Vercel</li>
+    <li>🔗 <strong>Link</strong>: <a href="https://derese.vercel.app/" target="_blank" rel="noopener noreferrer">View Project</a></li>
+  </ul>
+</td>
 
 </tr>
 </table>
