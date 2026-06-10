@@ -125,7 +125,7 @@ I thrive on solving complex problems, optimizing performance, and driving innova
     <ul>
       <li>📚 <strong>Features</strong>: Student tracking, admin dashboard</li>
       <li>⚙️ <strong>Tech</strong>: Next.js, MongoDB, Tailwind CSS</li>
-      <li>🔗 <strong>Link</strong>: <a href="https://akakikalityschooldataaschu.vercel.app/" target="_blank" rel="noopener noreferrer">View Project</a></li>
+      <li>🔗 <strong>Link</strong>: <a href="https://akakikalityschooldata.onrender.com" target="_blank" rel="noopener noreferrer">View Project</a></li>
     </ul>
   </td>
   <td width="50%">
